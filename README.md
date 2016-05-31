@@ -12,4 +12,4 @@ If your JDBC driver does not support this method, it may throw an exception and 
 
 Once the JDBC statement times out, the Oracle JDBC driver throws a java.sql.SQLException: ORA-01013: user requested cancel of current operation to the server log.
 
-Statement Timeout = 600s (Datasource : OGRDS_PNB_DS_GridLink)
+Statement Timeout = 600s (Datasource : {Name})
